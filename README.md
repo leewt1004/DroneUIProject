@@ -11,15 +11,16 @@ DroneUIProject is a Python project that uses Tkinter to automate and control dro
 
 
 ## Project Structure
-DroneUIProject/
-├── src/
-│   ├── arm_takeoff.py    # Drone Arm and Takeoff functions
-│   ├── exit.py           # Program termination function 
-│   ├── land_disarm.py    # Drone land and disarm functions 
+DroneUIProject/  
+├── src/  
+│   ├── arm_takeoff.py    # Drone Arm and Takeoff functions  
+│   ├── exit.py           # Program termination function  
+│   ├── land_disarm.py    # Drone land and disarm functions  
 │   ├── move.py           # Route flight function  
 │   ├── signal.py         # Drone connection function  
 ├── main.py               # Main file that integrates all functions  
-└── README.md             # Project description file
+└── README.md             # Project description file  
+
 
 
 ## How to install and run
