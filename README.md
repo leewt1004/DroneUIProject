@@ -22,8 +22,6 @@ DroneUIProject/
 └── README.md               # Project description file
 
 
-
-
 ## How to install and run
  1. install dependencies
    - Install the pymavlink library : pip install pymavlink  
